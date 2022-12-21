@@ -1,0 +1,135 @@
+body{
+  width: 100%;
+  
+}
+h1,h3{
+    text-align: center;
+
+}
+
+aside{
+width: 30%;
+padding-left: 30px;
+margin-left: 15px;
+
+float: right;
+font-style: bold;
+
+
+margin-top: 2cm;
+}
+#as1{
+  width: 20%;
+  height: 150vh;
+  float: left;
+  text-align: left;
+  margin-right: 2cm;
+  
+}
+h1,h3{
+  text-align: center;
+
+}
+
+h4{
+  color: darkblue;
+}
+.list{
+  color: black;
+}
+article{
+width: 800px;
+ padding: 25px;
+ margin-left: 4cm;
+margin-top: 1.5cm;
+
+}
+p{
+  text-align: justify;
+}
+
+#head2{
+  margin-top: -2cm;
+margin-right: 2cm;
+padding-right: 3cm;
+}
+#head3,#para1{
+  text-align: center;
+}
+
+/*------------header ---------*/
+header{
+    background-color: skyblue;
+    background-image: linear-gradient( skyblue,white);
+    
+}
+header img{
+  padding-left: 7px;
+  width: 90px;
+  height: 120px;
+  margin-top: 6px;
+}
+#head1{
+  color:red;
+}
+
+/*------------navigation--------*/
+ nav{
+    margin-top: 3em;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:palevioletred;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color:black;
+  }
+  /*---content-----*/
+ .image1{
+  float: left;
+  width: 15%;
+  margin-top: 1cm;
+  }
+  .image2{
+    float: left;
+    width: 15%;
+    
+    padding: 4px;
+    margin-right: 1cm;
+  
+  }
+  #head5{
+    color: blue;
+  }
+  
+  
+footer{
+    
+    background-color: skyblue;
+    background-image: linear-gradient( skyblue,white);
+    padding: 3px;
+text-align: center;
+}
+#sec1{
+    padding-top: 1px;
+    padding-left: 1cm;
+}
+  
+  
+ 
